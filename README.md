@@ -1,6 +1,6 @@
 Free and open source gamedev alternatives
 =========================================
-To commercial software closed source freeware.
+To commercial software and closed source freeware.
 
 | Software | Open-source alternative | Link |
 |:---------|:------------------------|:-----|
