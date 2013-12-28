@@ -7,7 +7,7 @@ To commercial software and closed source freeware.
 | Adobe Flash | Flex + Flash Develop | http://www.flashdevelop.org/ |
 | Adobe Illustrator | Inkscape | http://inkscape.org/en/ |
 | GameMaker | ENIGMA (early alpha) | http://enigma-dev.org/about.htm |
-| Impact (ImpactJS) | melonJS | http://melonjs.org/ |
+| Impact (ImpactJS) | Phaser | https://github.com/photonstorm/phaser |
 | Klik & Play, The Games Factory, Multimedia Fusion 2 | Construct Classic | http://sourceforge.net/projects/construct/ |
 | Microsoft XNA | MonoGame | http://www.monogame.net/ |
 | M.U.G.E.N., Fighter Maker | OpenBOR | http://sourceforge.net/projects/openbor/ |
